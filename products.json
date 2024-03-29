@@ -1,0 +1,26 @@
+[
+    {
+        "name": "iPhone",
+        "price": 154,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "Dell Laptop",
+        "price": 899,
+        "feature": false,
+        "company": "dell"
+    },
+    {
+        "name": "Xiaomi Phone",
+        "price": 299,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "Samsung TV",
+        "price": 799,
+        "feature": true,
+        "company": "samsung"
+    }
+]
